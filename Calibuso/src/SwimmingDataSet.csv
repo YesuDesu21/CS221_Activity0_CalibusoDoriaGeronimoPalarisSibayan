@@ -1,0 +1,232 @@
+Location,Year,Distance (in meters),Stroke,Relay?,Gender,Team,Athlete,Results,Rank
+Tokyo,2020,100m,Backstroke,0,Men,ROC,Evgeny Rylov,51.98,1
+Tokyo,2020,100m,Backstroke,0,Men,ROC,Kliment Kolesnikov,52,2
+Tokyo,2020,100m,Backstroke,0,Men,USA,Ryan Murphy,52.19,3
+Tokyo,2020,100m,Backstroke,0,Men,ITA,Thomas Ceccon,52.3,4
+Tokyo,2020,100m,Backstroke,0,Men,CHN,Jiayu Xu,52.51,4
+Tokyo,2020,100m,Backstroke,0,Men,ESP,Hugo Gonzalez De Oliveira,52.78,4
+Tokyo,2020,100m,Backstroke,0,Men,AUS,Mitchell Larkin,52.79,4
+Tokyo,2020,100m,Backstroke,0,Men,ROU,Robert Glinta,52.95,4
+Tokyo,2020,100m,Breaststroke,0,Men,GBR,Adam Peaty,57.37,1
+Tokyo,2020,100m,Breaststroke,0,Men,NED,Arno Kamminga,58,2
+Tokyo,2020,100m,Breaststroke,0,Men,ITA,Nicolo Martinenghi,58.33,3
+Tokyo,2020,100m,Breaststroke,0,Men,USA,Michael Andrew,58.84,4
+Tokyo,2020,100m,Breaststroke,0,Men,GBR,James Wilby,58.96,4
+Tokyo,2020,100m,Breaststroke,0,Men,CHN,Zibei Yan,58.99,4
+Tokyo,2020,100m,Breaststroke,0,Men,USA,Andrew Wilson,58.99,4
+Tokyo,2020,100m,Breaststroke,0,Men,BLR,Ilya Shymanovich,59.36,4
+Tokyo,2020,100m,Butterfly,0,Men,USA,Caeleb Dressel,49.45,1
+Tokyo,2020,100m,Butterfly,0,Men,HUN,Kristof Kristof Milak,49.68,2
+Tokyo,2020,100m,Butterfly,0,Men,SUI,Noe Ponti,50.74,3
+Tokyo,2020,100m,Butterfly,0,Men,ROC,Andrei Minakov,50.88,4
+Tokyo,2020,100m,Butterfly,0,Men,POL,Jakub Majerski,50.92,4
+Tokyo,2020,100m,Butterfly,0,Men,AUS,Matthew Temple,50.92,4
+Tokyo,2020,100m,Butterfly,0,Men,GUA,Luis Martinez,51.09,4
+Tokyo,2020,100m,Butterfly,0,Men,BUL,Josif Miladinov,51.49,4
+Tokyo,2020,100m,Freestyle,0,Men,USA,Caeleb Dressel,47.02,1
+Tokyo,2020,100m,Freestyle,0,Men,AUS,Kyle Chalmers,47.08,2
+Tokyo,2020,100m,Freestyle,0,Men,ROC,Kliment Kolesnikov,47.44,3
+Tokyo,2020,100m,Freestyle,0,Men,FRA,Maxime Grousset,47.72,4
+Tokyo,2020,100m,Freestyle,0,Men,KOR,Sunwoo Hwang,47.82,4
+Tokyo,2020,100m,Freestyle,0,Men,ITA,Alessandro Miressi,47.86,4
+Tokyo,2020,100m,Freestyle,0,Men,ROU,David Popovici,48.04,4
+Tokyo,2020,100m,Freestyle,0,Men,HUN,Nandor Nemeth,48.1,4
+Tokyo,2020,1500m,Freestyle,0,Men,USA,Robert Finke,14:39.65,1
+Tokyo,2020,1500m,Freestyle,0,Men,UKR,Mykhailo Romanchuk,14:40.66,2
+Tokyo,2020,1500m,Freestyle,0,Men,GER,Florian Wellbrock,14:40.91,3
+Tokyo,2020,1500m,Freestyle,0,Men,ITA,Gregorio Paltrinieri,14:45.01,4
+Tokyo,2020,1500m,Freestyle,0,Men,GBR,Daniel Jervis,14:55.48,4
+Tokyo,2020,1500m,Freestyle,0,Men,ROC,Kirill Martynychev,14:55.85,4
+Tokyo,2020,1500m,Freestyle,0,Men,AUT,Felix Auboeck,15:03.47,4
+Tokyo,2020,1500m,Freestyle,0,Men,UKR,Serhii Frolov,15:04.26,4
+Tokyo,2020,200m,Backstroke,0,Men,ROC,Evgeny Rylov,1:53.27,1
+Tokyo,2020,200m,Backstroke,0,Men,USA,Ryan Murphy,1:54.15,2
+Tokyo,2020,200m,Backstroke,0,Men,GBR,Luke Greenbank,1:54.72,3
+Tokyo,2020,200m,Backstroke,0,Men,USA,Bryce Mefford,1:55.49,4
+Tokyo,2020,200m,Backstroke,0,Men,HUN,Adam Telegdy,1:56.15,4
+Tokyo,2020,200m,Backstroke,0,Men,POL,Radoslaw Kawecki,1:56.39,4
+Tokyo,2020,200m,Backstroke,0,Men,JPN,Ryosuke Irie,1:57.32,4
+Tokyo,2020,200m,Backstroke,0,Men,ESP,Nicolas Garcia Saiz,1:59.06,4
+Tokyo,2020,200m,Breaststroke,0,Men,AUS,Izaac Stubblety-Cook,2:06.38,1
+Rio,2016,100m,Backstroke,0,Men,USA,Ryan Murphy,51.97,1
+Rio,2016,100m,Backstroke,0,Men,CHN,Jiayu Xu,52.31,2
+Rio,2016,100m,Backstroke,0,Men,USA,David Plummer,52.4,3
+Rio,2016,100m,Backstroke,0,Men,AUS,Mitchell Larkin,52.43,4
+Rio,2016,100m,Backstroke,0,Men,FRA,Camille Lacourt,52.7,4
+Rio,2016,100m,Backstroke,0,Men,RUS,Evgeny Rylov,52.74,4
+Rio,2016,100m,Backstroke,0,Men,JPN,Ryosuke Irie,53.42,4
+Rio,2016,100m,Backstroke,0,Men,ROU,Robert Glinta,53.5,4
+Rio,2016,100m,Backstroke,0,Women,HUN,Katinka Hosszu,58.45,1
+Rio,2016,100m,Backstroke,0,Women,USA,Kathleen Baker,58.75,2
+Rio,2016,100m,Backstroke,0,Women,CAN,Kylie Masse,58.76,3
+Rio,2016,100m,Backstroke,0,Women,CHN,Yuanhui Fu,58.76,3
+Rio,2016,100m,Backstroke,0,Women,DEN,Mie Nielsen,58.8,4
+Rio,2016,100m,Backstroke,0,Women,USA,Olivia Smoliga,58.95,4
+Rio,2016,100m,Backstroke,0,Women,AUS,Emily Seebohm,59.19,4
+Rio,2016,100m,Backstroke,0,Women,AUS,Madison Wilson,59.23,4
+Rio,2016,100m,Breaststroke,0,Men,GBR,Adam Peaty,57.13,1
+Rio,2016,100m,Breaststroke,0,Men,RSA,Cameron Van Der Burgh,58.69,2
+Rio,2016,100m,Breaststroke,0,Men,USA,Cody Miller,58.87,3
+Rio,2016,100m,Breaststroke,0,Men,USA,Kevin Cordes,59.22,4
+Rio,2016,100m,Breaststroke,0,Men,BRA,Joao Gomes,59.31,4
+Rio,2016,100m,Breaststroke,0,Men,JPN,Yasuhiro Koseki,59.37,4
+Rio,2016,100m,Breaststroke,0,Men,BRA,Felipe Franca,59.38,4
+Rio,2016,100m,Breaststroke,0,Men,KAZ,Dmitriy Balandin,59.95,4
+Rio,2016,100m,Breaststroke,0,Women,USA,Lilly King,0:01:05,1
+Rio,2016,100m,Breaststroke,0,Women,RUS,Yuliya Efimova,0:01:06,2
+Rio,2016,100m,Breaststroke,0,Women,USA,Katie Meili,0:01:06,3
+Rio,2016,100m,Breaststroke,0,Women,CHN,Jinglin Shi,0:01:06,4
+Rio,2016,100m,Breaststroke,0,Women,CAN,Rachel Nicol,0:01:07,4
+Rio,2016,100m,Breaststroke,0,Women,ISL,Hrafnhildur Luthersdottir,0:01:07,4
+Rio,2016,100m,Breaststroke,0,Women,LTU,Ruta Meilutyte,0:01:07,4
+Rio,2016,100m,Breaststroke,0,Women,JAM,Alia Atkinson,0:01:08,4
+Rio,2016,100m,Butterfly,0,Men,SGP,Joseph Schooling,50.39,1
+Rio,2016,100m,Butterfly,0,Men,USA,Michael Phelps,51.14,2
+Rio,2016,100m,Butterfly,0,Men,RSA,Chad Le Clos,51.14,2
+Rio,2016,100m,Butterfly,0,Men,HUN,Laszlo Cseh,51.14,2
+Rio,2016,100m,Butterfly,0,Men,CHN,Zhuhao Li,51.26,4
+Rio,2016,100m,Butterfly,0,Men,FRA,Mehdy Metella,51.58,4
+Rio,2016,100m,Butterfly,0,Men,USA,Tom Shields,51.73,4
+Rio,2016,100m,Butterfly,0,Men,RUS,Aleksandr Sadovnikov,51.84,4
+Rio,2016,100m,Butterfly,0,Women,SWE,Sarah Sjostrom,55.48,2
+Rio,2016,100m,Butterfly,0,Women,CAN,Penny Oleksiak,56.46,3
+Rio,2016,100m,Butterfly,0,Women,USA,Dana Vollmer,56.63,4
+Rio,2016,100m,Butterfly,0,Women,CHN,Ying Lu,56.76,4
+Rio,2016,100m,Butterfly,0,Women,JPN,Rikako Ikee,56.86,4
+Rio,2016,100m,Butterfly,0,Women,AUS,Emma Mckeon,57.05,4
+Rio,2016,100m,Butterfly,0,Women,DEN,Jeanette Ottesen,57.17,4
+Rio,2016,100m,Butterfly,0,Women,USA,Kelsi Worrell,,5
+Rio,2016,100m,Freestyle,0,Men,AUS,Kyle Chalmers,47.58,1
+Rio,2016,100m,Freestyle,0,Men,BEL,Pieter Timmers,47.8,2
+London,2012,100m,Backstroke,0,Men,USA,Matt Grevers,52.16,1
+London,2012,100m,Backstroke,0,Men,USA,Nick Thoman,52.92,2
+London,2012,100m,Backstroke,0,Men,JPN,Ryosuke Irie,52.97,3
+London,2012,100m,Backstroke,0,Men,FRA,Camille Lacourt,53.08,4
+London,2012,100m,Backstroke,0,Men,GBR,Liam Tancock,53.35,4
+London,2012,100m,Backstroke,0,Men,GER,Helge Meeuw,53.48,4
+London,2012,100m,Backstroke,0,Men,AUS,Hayden Stoeckel,53.55,4
+London,2012,100m,Backstroke,0,Men,CHN,Feiyi Cheng,53.77,4
+London,2012,100m,Backstroke,0,Women,USA,Missy Franklin,58.33,2
+London,2012,100m,Backstroke,0,Women,AUS,Emily Seebohm,58.68,3
+London,2012,100m,Backstroke,0,Women,JPN,Aya Terakawa,58.83,4
+London,2012,100m,Backstroke,0,Women,RUS,Anastasia Zueva,59,4
+London,2012,100m,Backstroke,0,Women,GBR,Gemma Spofforth,59.2,4
+London,2012,100m,Backstroke,0,Women,CHN,Jing Zhao,59.23,4
+London,2012,100m,Backstroke,0,Women,AUS,Belinda Hocking,59.29,4
+London,2012,100m,Backstroke,0,Women,CHN,Yuanhui Fu,0:01:01,1
+London,2012,100m,Breaststroke,0,Men,RSA,Cameron Van Der Burgh,58.46,2
+London,2012,100m,Breaststroke,0,Men,AUS,Christian Sprenger,58.93,3
+London,2012,100m,Breaststroke,0,Men,USA,Brendan Hansen,59.49,4
+London,2012,100m,Breaststroke,0,Men,HUN,Daniel Gyurta,59.53,4
+London,2012,100m,Breaststroke,0,Men,JPN,Kosuke Kitajima,59.79,4
+London,2012,100m,Breaststroke,0,Men,AUS,Brenton Rickard,59.87,4
+London,2012,100m,Breaststroke,0,Men,ITA,Fabio Scozzoli,59.97,4
+London,2012,100m,Breaststroke,0,Men,LTU,Giedrius Titenis,0:01:01,1
+London,2012,100m,Breaststroke,0,Women,LTU,Ruta Meilutyte,0:01:05,1
+London,2012,100m,Breaststroke,0,Women,USA,Rebecca Soni,0:01:06,2
+London,2012,100m,Breaststroke,0,Women,JPN,Satomi Suzuki,0:01:06,3
+London,2012,100m,Breaststroke,0,Women,JAM,Alia Atkinson,0:01:07,4
+London,2012,100m,Breaststroke,0,Women,AUS,Leisel Jones,0:01:07,4
+London,2012,100m,Breaststroke,0,Women,USA,Breeja Larson,0:01:07,4
+London,2012,100m,Breaststroke,0,Women,RUS,Yuliya Efimova,0:01:07,4
+London,2012,100m,Breaststroke,0,Women,DEN,Rikke Moller Pedersen,0:01:08,4
+London,2012,100m,Butterfly,0,Men,USA,Michael Phelps,51.21,1
+London,2012,100m,Butterfly,0,Men,RSA,Chad Le Clos,51.44,2
+London,2012,100m,Butterfly,0,Men,RUS,Evgeny Korotyshkin,51.44,2
+London,2012,100m,Butterfly,0,Men,SRB,Milorad Cavic,51.81,4
+London,2012,100m,Butterfly,0,Men,GER,Steffen Deibler,51.81,4
+London,2012,100m,Butterfly,0,Men,NED,Joeri Verlinden,51.82,4
+London,2012,100m,Butterfly,0,Men,USA,Tyler Mcgill,51.88,4
+London,2012,100m,Butterfly,0,Men,POL,Konrad Czerniak,52.05,4
+London,2012,100m,Butterfly,0,Women,USA,Dana Vollmer,55.98,1
+London,2012,100m,Butterfly,0,Women,CHN,Ying Lu,56.87,2
+London,2012,100m,Butterfly,0,Women,AUS,Alicia Coutts,56.94,3
+London,2012,100m,Butterfly,0,Women,SWE,Sarah Sjostrom,57.17,4
+London,2012,100m,Butterfly,0,Women,ITA,Ilaria Bianchi,57.27,4
+London,2012,100m,Butterfly,0,Women,DEN,Jeanette Ottesen,57.35,4
+London,2012,100m,Butterfly,0,Women,USA,Claire Donahue,57.48,4
+London,2012,100m,Butterfly,0,Women,GBR,Ellen Gandy,57.76,4
+London,2012,100m,Freestyle,0,Men,USA,Nathan Adrian,47.52,1
+London,2012,100m,Freestyle,0,Men,AUS,James Magnussen,47.53,2
+London,2012,100m,Freestyle,0,Men,CAN,Brent Hayden,47.8,3
+London,2012,100m,Freestyle,0,Men,FRA,Yannick Agnel,47.84,4
+London,2012,100m,Freestyle,0,Men,NED,Sebastiaan Verschuren,47.88,4
+London,2012,100m,Freestyle,0,Men,BRA,Cesar Cielo Filho,47.92,4
+London,2012,100m,Freestyle,0,Men,CUB,Hanser Garcia,48.04,4
+London,2012,100m,Freestyle,0,Men,RUS,Nikita Lobintsev,48.44,4
+London,2012,100m,Freestyle,0,Women,NED,Ranomi Kromowidjojo,53,1
+London,2012,400m,Freestyle,0,Men,CHN,Yang Sun,0:03:40,1
+London,2012,400m,Freestyle,0,Men,KOR,Tae-Hwan Park,0:03:42,2
+London,2012,400m,Freestyle,0,Men,USA,Peter Vanderkaay,0:03:45,3
+London,2012,400m,Freestyle,0,Men,CHN,Yun Hao,0:03:46,4
+London,2012,400m,Freestyle,0,Men,USA,Conor Dwyer,0:03:46,4
+London,2012,400m,Freestyle,0,Men,HUN,Gergo Kis,0:03:47,4
+London,2012,400m,Freestyle,0,Men,GBR,David Carry,0:03:49,4
+London,2012,400m,Freestyle,0,Men,AUS,Ryan Napoleon,0:03:49,4
+London,2012,400m,Freestyle,0,Women,FRA,Camille Muffat,0:04:01,1
+London,2012,400m,Freestyle,0,Women,USA,Allison Schmitt,0:04:02,2
+London,2012,400m,Freestyle,0,Women,GBR,Rebecca Adlington,0:04:03,3
+London,2012,400m,Freestyle,0,Women,DEN,Lotte Friis,0:04:04,4
+London,2012,400m,Freestyle,0,Women,ITA,Federica Pellegrini,0:04:05,4
+London,2012,400m,Freestyle,0,Women,FRA,Coralie Balmy,0:04:06,4
+London,2012,400m,Freestyle,0,Women,CAN,Brittany Maclean,0:04:06,4
+London,2012,400m,Freestyle,0,Women,NZL,Lauren Boyle,0:04:06,4
+London,2012,400m,Individual medley,0,Men,USA,Ryan Lochte,0:04:05,1
+London,2012,400m,Individual medley,0,Men,BRA,Thiago Pereira,0:04:09,2
+London,2012,400m,Individual medley,0,Men,JPN,Kosuke Hagino,0:04:09,3
+London,2012,400m,Individual medley,0,Men,USA,Michael Phelps,0:04:09,4
+London,2012,400m,Individual medley,0,Men,RSA,Chad Le Clos,0:04:12,4
+London,2012,400m,Individual medley,0,Men,JPN,Yuya Horihata,0:04:13,4
+London,2012,400m,Individual medley,0,Men,AUS,Thomas Fraser-Holmes,0:04:13,4
+London,2012,400m,Individual medley,0,Men,ITA,Luca Marin,0:04:15,4
+London,2012,400m,Individual medley,0,Women,CHN,Shiwen Ye,0:04:28,1
+London,2012,400m,Individual medley,0,Women,USA,Elizabeth Beisel,0:04:31,2
+London,2012,400m,Individual medley,0,Women,CHN,Xuanxu Li,0:04:33,3
+London,2012,400m,Individual medley,0,Women,HUN,Katinka Hosszu,0:04:33,4
+London,2012,400m,Individual medley,0,Women,GBR,Hannah Miley,0:04:34,4
+London,2012,400m,Individual medley,0,Women,AUS,Stephanie Rice,0:04:35,4
+London,2012,400m,Individual medley,0,Women,USA,Caitlin Leverenz,0:04:35,4
+London,2012,400m,Individual medley,0,Women,ESP,Mireia Belmonte,0:04:36,4
+London,2012,4x100,Freestyle,1,Men,FRA,"Jeremy Stravius, Fabien Gilot, Clement Lefert, Amaury Leveaux, Yannick Agnel, Alain Bernard",0:03:10,1
+London,2012,4x100,Freestyle,1,Men,USA,"Michael Phelps, Matt Grevers, Nathan Adrian, Cullen Jones, Ryan Lochte, Jason Lezak, Ricky Berens, James Feigen",0:03:10,2
+London,2012,4x100,Freestyle,1,Men,RUS,"Andrey Grechin, Vladimir Morozov, Danila Izotov, Sergey Fesikov, Nikita Lobintsev, Evgeny Lagunov",0:03:11,3
+London,2012,4x100,Freestyle,1,Men,AUS,"Matt Targett, Eamon Sullivan, Tommaso Dorsogna, Cameron Mcevoy, James Roberts, James Magnussen",0:03:12,4
+London,2012,4x100,Freestyle,1,Men,ZAF,"Roland Schoeman, Gideon Louw, Graeme Moore, Darian Townsend",0:03:13,4
+Beijing,2008,200m,Backstroke,0,Women,JPN,Reiko Nakamura,0:02:07,3
+Beijing,2008,200m,Backstroke,0,Women,RUS,Anastasia Zueva,0:02:08,4
+Beijing,2008,200m,Backstroke,0,Women,USA,Elizabeth Beisel,0:02:08,4
+Beijing,2008,200m,Backstroke,0,Women,GBR,Elizabeth Simmonds,0:02:09,4
+Beijing,2008,200m,Backstroke,0,Women,AUS,Meagen Nay,0:02:09,4
+Beijing,2008,200m,Backstroke,0,Women,AUS,Belinda Hocking,0:02:10,4
+Beijing,2008,200m,Breaststroke,0,Men,JPN,Kosuke Kitajima,0:02:08,1
+Beijing,2008,200m,Breaststroke,0,Men,AUS,Brenton Rickard,0:02:09,2
+Beijing,2008,200m,Breaststroke,0,Men,FRA,Hugues Duboscq,0:02:09,3
+Beijing,2008,200m,Breaststroke,0,Men,CAN,Mike Brown,0:02:09,4
+Beijing,2008,200m,Breaststroke,0,Men,HUN,Daniel Gyurta,0:02:09,4
+Beijing,2008,200m,Breaststroke,0,Men,USA,Scott Spann,0:02:10,4
+Beijing,2008,200m,Breaststroke,0,Men,ITA,Loris Facci,0:02:11,4
+Beijing,2008,200m,Breaststroke,0,Men,ITA,Paolo Bossini,0:02:11,4
+Beijing,2008,200m,Breaststroke,0,Women,USA,Rebecca Soni,0:02:20,1
+Beijing,2008,200m,Breaststroke,0,Women,AUS,Leisel Jones,0:02:22,2
+Beijing,2008,200m,Breaststroke,0,Women,NOR,Sara Nordenstam,0:02:23,3
+Beijing,2008,200m,Breaststroke,0,Women,AUT,Mirna Jukic,0:02:23,4
+Beijing,2008,200m,Breaststroke,0,Women,RUS,Yuliya Efimova,0:02:24,4
+Beijing,2008,200m,Breaststroke,0,Women,CAN,Annamay Pierse,0:02:24,4
+Beijing,2008,200m,Breaststroke,0,Women,JPN,Rie Kaneto,0:02:25,4
+Beijing,2008,200m,Breaststroke,0,Women,JPN,Megumi Taneda,0:02:25,4
+Beijing,2008,200m,Butterfly,0,Men,USA,Michael Phelps,0:01:52,1
+Beijing,2008,200m,Butterfly,0,Men,HUN,Laszlo Cseh,0:01:53,2
+Beijing,2008,200m,Butterfly,0,Men,JPN,Takeshi Matsuda,0:01:53,3
+Beijing,2008,200m,Butterfly,0,Men,NZL,Moss Burmester,0:01:54,4
+Beijing,2008,200m,Butterfly,0,Men,CHN,Peng Wu,0:01:54,4
+Beijing,2008,200m,Butterfly,0,Men,POL,Pawel Korzeniowski,0:01:55,4
+Beijing,2008,200m,Butterfly,0,Men,BRA,Kaio Marcio,0:01:55,4
+Beijing,2008,200m,Butterfly,0,Men,RUS,Nikolay Skvortsov,0:01:55,4
+Beijing,2008,200m,Butterfly,0,Women,CHN,Zige Liu,0:02:04,1
+Beijing,2008,200m,Butterfly,0,Women,CHN,Liuyang Jiao,0:02:05,2
+Beijing,2008,200m,Butterfly,0,Women,AUS,Jessicah Schipper,0:02:06,3
+Beijing,2008,200m,Butterfly,0,Women,POL,Otylia Jedrzejczak,0:02:07,4
+Beijing,2008,200m,Butterfly,0,Women,JPN,Yuko Nakanishi,0:02:07,4
+Beijing,2008,200m,Butterfly,0,Women,FRA,Aurore Mongel,0:02:07,4
+Beijing,2008,200m,Butterfly,0,Women,USA,Elaine Breeden,0:02:08,4
+Beijing,2008,200m,Butterfly,0,Women,USA,Kathleen Hersey,0:02:08,4
