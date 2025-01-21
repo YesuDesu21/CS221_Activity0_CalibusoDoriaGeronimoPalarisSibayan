@@ -3,10 +3,6 @@ public class Main {
     public static void main(String[] args) {
         DataManager swimmingDataManager = new DataManager();
         swimmingDataManager.setReferenceListFromCSV("data.csv");
-
-
-
-
         int choice;
         Scanner sc = new Scanner(System.in);
 
