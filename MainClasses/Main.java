@@ -34,7 +34,13 @@ public class Main {
                         swimmingDataManager.displayListOfSwimmers();
                         break;
                     case 3:
-                        swimmingDataManager.filterByRank();
+                        try {
+                            swimmingDataManager.filterByRank();
+                        } catch (FileNotFoundException e) {
+                            System.err.println("Error: The specified file was not found.");
+                        } catch (IOException e) {
+                            System.err.println("Error: An I/O error occurred while reading the file.");
+                        }
                         break;
                     case 4:
                         System.out.println("Choose sorting order:");
