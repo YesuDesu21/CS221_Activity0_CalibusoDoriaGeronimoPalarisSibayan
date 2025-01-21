@@ -20,7 +20,9 @@ public class Main {
                         4. Sort by Year
                         5. Top 5 fastest Results per Event
                         """);
+                System.out.print("Enter your choice: ");
                 choice = sc.nextInt();
+                System.out.println();
                 if(choice < 0){
                     System.out.println("Input a positive number...");
                 }
