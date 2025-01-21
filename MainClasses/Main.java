@@ -37,8 +37,18 @@ public class Main {
                         swimmingDataManager.filterByRank();
                         break;
                     case 4:
-                        //method 4
-                        System.out.println("4");
+                        System.out.println("Choose sorting order:");
+                        System.out.println("1. Ascending");
+                        System.out.println("2. Descending");
+                        System.out.print("Choice: ");
+                        int sortOrder = sc.nextInt();
+                        if (sortOrder == 1) {
+                            swimmingDataManager.sortByYear(true);
+                        } else if (sortOrder == 2) {
+                            swimmingDataManager.sortByYear(false);
+                        } else {
+                            System.out.println("Invalid choice.");
+                        }
                         break;
                     case 5:
                         swimmingDataManager.filterByTop5Events();
