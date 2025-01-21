@@ -81,6 +81,10 @@ public class DataManager {
         for (DataInformation data : referenceList) {
             if (data.getAthleteName().equalsIgnoreCase(athleteName)) {
                 System.out.println("Athlete found:");
+                System.out.printf(
+                        "%-10s %-5s %-10s %-25s %-10s %-7s %-5s %-25s %-25s %-2s\n",
+                        "Location", "Year", "Distance", "Stroke", "Relay", "Gender", "Team", "Name", "Result (Seconds)", "Rank"
+                );
                 System.out.println(data);
                 athleteFound = true;
                 break;
@@ -93,7 +97,12 @@ public class DataManager {
 
     }
 
+    /** Display the list of all swimmers **/
     public void displayListOfSwimmers(){
+        System.out.printf(
+                "%-10s %-5s %-10s %-25s %-10s %-7s %-5s %-25s %-25s %-2s\n",
+                "Location", "Year", "Distance", "Stroke", "Relay", "Gender", "Team", "Name", "Result (Seconds)", "Rank"
+        );
         for(DataInformation data : referenceList){
             System.out.println(data);
         }
@@ -134,6 +143,11 @@ public class DataManager {
         filteredDataList.sort(Comparator.comparing(DataInformation::getDistance));
 
         //Print results
+        //Header
+        System.out.printf(
+                "%-10s %-5s %-10s %-25s %-10s %-7s %-5s %-25s %-25s %-2s\n",
+                "Location", "Year", "Distance", "Stroke", "Relay", "Gender", "Team", "Name", "Result (Seconds)", "Rank"
+        );
         for(int i = 0; i < filteredDataList.size(); i++){
             if(i == 5)
                 break;
@@ -157,7 +171,10 @@ public class DataManager {
 
             String header = br.readLine();
             if (header != null) {
-                System.out.println(header);
+                System.out.printf(
+                        "%-10s %-5s %-10s %-25s %-10s %-7s %-5s %-25s %-25s %-2s\n",
+                        "Location", "Year", "Distance", "Stroke", "Relay", "Gender", "Team", "Name", "Result (Seconds)", "Rank"
+                );
             }
 
             String line;
@@ -170,7 +187,11 @@ public class DataManager {
                     int rank = Integer.parseInt(rankStr.trim());
 
                     if (rank == targetRank) {
-                        System.out.println(line);
+                        String[] splitLine = line.split(",");
+                        System.out.printf(
+                                "%-10s %-5s %-10s %-25s %-10s %-7s %-5s %-25s %-25s %-2s\n",
+                                splitLine[0], splitLine[1], splitLine[2], splitLine[3], splitLine[4], splitLine[5], splitLine[6], splitLine[7], splitLine[8], splitLine[9]
+                        );
                         found = true;
                     }
                 } catch (NumberFormatException e) {
