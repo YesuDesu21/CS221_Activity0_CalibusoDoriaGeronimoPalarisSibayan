@@ -1,4 +1,5 @@
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
@@ -159,12 +160,11 @@ public class DataManager {
     /**
      * Filters the list by rank and outputs the filtered list
      */
-    public void filterByRank() {
+    public void filterByRank() throws FileNotFoundException, IOException {
         // absolute path for the input file
         String inputFile = "data.csv";
 
         try (BufferedReader br = new BufferedReader(new FileReader(inputFile))) {
-
             Scanner scanner = new Scanner(System.in);
             System.out.print("Enter the rank you want to filter: ");
             int targetRank = scanner.nextInt();
@@ -202,8 +202,6 @@ public class DataManager {
             if (!found) {
                 System.out.println("No rows found for rank " + targetRank);
             }
-        } catch (IOException e) {
-            e.printStackTrace();
         }
     }
 
