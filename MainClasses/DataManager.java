@@ -207,6 +207,16 @@ public class DataManager {
         }
     }
 
+    //Sort by year
+    public void sortByYear(boolean ascending) {
+        if (ascending) {
+            referenceList.sort(Comparator.comparingInt(DataInformation::getYear));
+        } else {
+            referenceList.sort((data1, data2) -> data2.getYear() - data1.getYear());
+        }
+        displayListOfSwimmers();
+    }
+
     // Convert a time string (e.g., "2:15") to seconds
     private static double parseResult(String result) {
         try {
