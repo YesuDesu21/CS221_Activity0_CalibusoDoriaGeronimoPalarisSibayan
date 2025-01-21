@@ -93,6 +93,12 @@ public class DataManager {
 
     }
 
+    public void displayListOfSwimmers(){
+        for(DataInformation data : referenceList){
+            System.out.println(data);
+        }
+    }
+
     /**
      * Prompts the user to select a distance and display the 5 fastest times for that distance.
      */
@@ -107,14 +113,14 @@ public class DataManager {
         }
 
         for (String distance : distances) {
-            System.out.println("1. Distance: " + distance);
+            System.out.println("Distance: " + distance);
         }
 
         //Ask for the user's input
         String input;
 
         do {
-            System.out.print("Enter your choice from the provided distances: ");
+            System.out.print("Enter your choice from the provided distances [e.g 400m]: ");
             input = scanner.nextLine();
 
             if(!distances.contains(input))
