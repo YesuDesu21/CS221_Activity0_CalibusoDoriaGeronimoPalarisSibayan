@@ -73,7 +73,7 @@ public class DataInformation{
     @Override
     public String toString() {
         return String.format(
-                "Location: %s, Year: %d, Distance: %s, Stroke: %s, Relay: %s, Gender: %s, Team: %s, Athlete Name: %s, Result (in seconds): %.2f, Rank: %d",
+                "%-10s %-5d %-10s %-25s %-10s %-7s %-5s %-25s %-25.2f %-2d",
                 location, year, distance, stroke, relay, gender, team, athleteName, result, rank
         );
     }
