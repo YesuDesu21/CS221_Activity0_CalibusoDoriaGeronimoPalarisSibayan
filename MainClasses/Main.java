@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         DataManager swimmingDataManager = new DataManager();
-        swimmingDataManager.setReferenceListFromCSV("data.csv");
         int choice;
         Scanner sc = new Scanner(System.in);
 
@@ -14,7 +13,7 @@ public class Main {
         System.out.println("Choose your option.");
         while(true){
             try {
-
+                swimmingDataManager.setReferenceListFromCSV("data.csv");
                 System.out.println("""
                         Options:
                         1. Search by Athlete Name
